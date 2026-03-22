@@ -1,0 +1,17 @@
+{
+  "name": "findangularcompanies",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "duck-duck-scrape": "^2.2.7",
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.58.2"
+  }
+}
