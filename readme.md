@@ -19,7 +19,9 @@ agent.run("63633", 80, 10, 13, "Angular Karriere Software Entwickler");
 Clone this repo...
 
 run "npm install"
+
 run "npx playwright install"
+
 run node index.js
 
 
